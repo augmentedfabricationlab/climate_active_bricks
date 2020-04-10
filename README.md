@@ -40,11 +40,11 @@
 ### Installation:
 
 * Clone the `[climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks)` repository.
-* Use pip install to copy it to your Anaconda environment site pacakges:
+* Use pip install to copy the repository to your Anaconda environment site pacakges:
 
         (your_env_name) pip install your_filepath_to_climate_active_bricks
 
-* Then install dependencies and make the project accessible from Rhino by adding src folder of the repository to the Rhino Pyhon path.
+* Then install dependencies and make the project accessible from Rhino by adding the src folder of the repositories to the Rhino Pyhon path.
 
 ### Dependecies:
 
