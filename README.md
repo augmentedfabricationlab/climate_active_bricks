@@ -4,7 +4,7 @@
 
 **This project examines the microclimate effects of differentiated robotically fabricated brick facades.** ...
 
-![Brickwall Example 2](/docs/images/brickwall_ex2.jpg =250x)
+![Brickwall Example 2](/docs/images/brickwall_ex2.jpg)
 
 
 ## Requirements
