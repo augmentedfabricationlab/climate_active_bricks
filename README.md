@@ -1,6 +1,6 @@
-============================================================
-Climate Active Bricks
-============================================================
+
+# Climate Active Bricks
+
 
 **This project examines the microclimate effects of differentiated robotically fabricated brick facades.** ...
 
