@@ -103,3 +103,4 @@ ENV/
 
 # Visual Studio Code
 .vscode/
+rhino/assembly_example.3dm
