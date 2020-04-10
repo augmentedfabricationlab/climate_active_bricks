@@ -6,7 +6,6 @@
 
 
 ## Requirements
-------------
 
 * Operating System: **Windows 10 Pro**
 * [Rhinoceros 3D 6.0](https://www.rhino3d.com/)
@@ -17,10 +16,9 @@
 
 
 ## Getting started
-------------
+
 
 ### Compas and Compas Fab Installation (via Anaconda Terminal)
-------------
     
     (base)  conda config --add channels conda-forge
     (base)  conda create -n your_env_name python=3.6 compas=0.11.4 compas_fab=0.10.1 --yes
@@ -29,7 +27,6 @@
     (your_env_name) python -m compas_fab.rhino.install -v 6.0
     
 ### Verify Installation
-------------
 
     (your_env_name) python
     >>> import compas_fab
@@ -39,7 +36,6 @@
 
 
 ## Installation and Dependencies
-------------
 
 .. Installation:
 Installation:
