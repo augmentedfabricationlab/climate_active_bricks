@@ -1,2 +1,3 @@
-from .assembly import BrickAssembly
-from .element import BrickElement
+from .assembly import Assembly
+from .element import Element
+#from .interfaces_numpy import assembly_interfaces_numpy

@@ -21,5 +21,7 @@ Describe typical classes found in project
 """
 
 from .sample_module import SampleClassName
+from .assembly import Assembly, Element
 
-__all__ = ['SampleClassName']
+
+__all__ = ['SampleClassName', 'BrickAssembly', 'BrickElement', ]
