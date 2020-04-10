@@ -4,7 +4,9 @@ Climate Active Bricks
 
 **This project examines the microclimate effects of differentiated robotically fabricated brick facades.** ...
 
+
 ## Requirements
+------------
 
 * Operating System: **Windows 10 Pro**
 * [Rhinoceros 3D 6.0](https://www.rhino3d.com/)
@@ -15,6 +17,7 @@ Climate Active Bricks
 
 
 ## Getting started
+------------
 
 ### Compas and Compas Fab Installation (via Anaconda Terminal)
     
