@@ -1,6 +1,6 @@
-============================================================
-Climate Active Bricks
-============================================================
+
+# Climate Active Bricks
+
 
 **This project examines the microclimate effects of differentiated robotically fabricated brick facades.** ...
 
@@ -8,7 +8,6 @@ Climate Active Bricks
 
 
 ## Requirements
-------------
 
 * Operating System: **Windows 10 Pro**
 * [Rhinoceros 3D 6.0](https://www.rhino3d.com/)
@@ -19,10 +18,9 @@ Climate Active Bricks
 
 
 ## Getting started
-------------
+
 
 ### Compas and Compas Fab Installation (via Anaconda Terminal)
-------------
     
     (base)  conda config --add channels conda-forge
     (base)  conda create -n your_env_name python=3.6 compas=0.11.4 compas_fab=0.10.1 --yes
@@ -31,7 +29,6 @@ Climate Active Bricks
     (your_env_name) python -m compas_fab.rhino.install -v 6.0
     
 ### Verify Installation
-------------
 
     (your_env_name) python
     >>> import compas_fab
@@ -41,25 +38,22 @@ Climate Active Bricks
 
 
 ## Installation and Dependencies
-------------
 
-.. Installation:
-Installation:
+### Installation:
 
-* Clone the `climate_active_bricks <https://github.com/augmentedfabricationlab/climate_active_bricks>`_ repository.
-* Use pip install to copy it to your Anaconda environment site pacakges:
+* Clone the `[climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks)` repository.
+* Use pip install to copy the repository to your Anaconda environment site pacakges:
 
         (your_env_name) pip install your_filepath_to_climate_active_bricks
 
-* Then install dependencies and make the project accessible from Rhino by adding src folder of the repository to the Rhino Pyhon path.
+* Then install dependencies and make the project accessible from Rhino by adding the src folder of the repositories to the Rhino Pyhon path.
 
-.. Dependecies:
-Dependencies:
+### Dependecies:
 
-* `ur_online_control <https://github.com/augmentedfabricationlab/ur_online_control>`_ 
+* `[ur_online_control](https://github.com/augmentedfabricationlab/ur_online_control)` 
 
 
 Credits
 -------------
 
-`@augmentedfabricationlab <https://github.com/augmentedfabricationlab>`_
+[@augmentedfabricationlab](https://github.com/augmentedfabricationlab)
