@@ -19,7 +19,8 @@
 
 ## Getting started
 
-### Compas and Compas Fab Installation (via Anaconda Terminal)
+### Compas and Compas Fab Installation 
+(via your Anaconda Terminal)
     
     (base)  conda config --add channels conda-forge
     (base)  conda create -n your_env_name python=3.6 compas=0.11.4 compas_fab=0.10.1 --yes
