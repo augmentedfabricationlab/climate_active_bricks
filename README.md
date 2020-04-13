@@ -41,20 +41,15 @@
 
 ### Installation:
 
-* Clone the `[climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks)` repository into your project workspace.
-* Use pip install to copy the repository to your Anaconda environment site packages:
-
-        (your_env_name) pip install your_filepath_to_climate_active_bricks
-        
+* Clone the [climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks) repository into your project workspace.
+* Use pip install to copy the repository to your Anaconda environment site packages: `(your_env_name) pip install your_filepath_to_climate_active_bricks`        
 
 * Then install dependencies and make the project accessible from Rhino by adding the `src` folder of the repositories to the Rhino Pyhon path.
 
 ### Dependecies:
 
-* `[ur_online_control](https://github.com/augmentedfabricationlab/ur_online_control)` 
-* shapely:
-
-                (your_env_name) conda install shapely
+* [ur_online_control](https://github.com/augmentedfabricationlab/ur_online_control) 
+* shapely: `(your_env_name) conda install shapely`
 
 ## Installation and Dependencies - Climate Analysis and Optimization
 
