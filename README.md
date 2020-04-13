@@ -37,7 +37,7 @@
     >>> exit()
 
 
-## Installation and Dependencies
+## Installation and Dependencies - Geometry and Fabrication
 
 ### Installation:
 
@@ -51,6 +51,9 @@
 ### Dependecies:
 
 * `[ur_online_control](https://github.com/augmentedfabricationlab/ur_online_control)` 
+
+## Installation and Dependencies - Climate Analysis and Optimization
+
 
 
 Credits
