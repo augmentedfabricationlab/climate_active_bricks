@@ -70,10 +70,19 @@ into your project workspace.
 You find the various example files in the `rhino` folder.
 
 ## Environmental Simulations
-![Rad](docs/images/Rad.jpg)
 
-### Installation Ladybug Tools
-Install Ladybug Tool via https://www.ladybug.tools/ladybug.html
+Through this course we will explore environmental modeling tools to quantify local impacts of brick walls. We will use computational simulations to provide optimized alternatives for manufacturing of brick elements. These tools will support us in the process of design and decision making to understand the microclimatic impacts on human scale. 
+
+![Rad](docs/images/Rad.jpg)
+## Installation and Dependencies
+
+### Ladybug Tools for Environmental Analysis
+
+* Install Ladybug Tool via https://www.ladybug.tools/ladybug.html
+
+### Discover for Optimization
+
+* Install Discover via https://colidescope.github.io/discover/
 
 Credits
 -------------
