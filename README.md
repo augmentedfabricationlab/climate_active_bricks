@@ -2,7 +2,7 @@
 # Climate Active Bricks
 
 
-**This project examines the microclimate effects of differentiated robotically fabricated brick facades.** ...
+**This project examines the microclimate effects of differentiated robotically fabricated brick facades. Through this course we will explore environmental modeling tools to quantify local impacts of brick walls. We will use computational simulations to provide optimized alternatives for robotically manufacturing of brick elements. These tools will support us in the process of design and decision making to understand the microclimatic impacts on human scale. **
 
 ![Brickwall Example 2](/docs/images/brickwall_ex2.jpg)
 
@@ -62,16 +62,7 @@ into your project workspace.
 * shapely: `(your_env_name) conda install shapely`
 
 
-## Installation and Dependencies - Climate Analysis and Optimization
-
-
-## Example files
-
-You find the various example files in the `rhino` folder.
-
-## Environmental Simulations
-
-Through this course we will explore environmental modeling tools to quantify local impacts of brick walls. We will use computational simulations to provide optimized alternatives for manufacturing of brick elements. These tools will support us in the process of design and decision making to understand the microclimatic impacts on human scale. 
+## Environmental Analysis and Optimization
 
 ![Rad](docs/images/Rad.jpg)
 ## Installation and Dependencies
@@ -83,6 +74,10 @@ Through this course we will explore environmental modeling tools to quantify loc
 ### Discover for Optimization
 
 * Install Discover via https://colidescope.github.io/discover/
+
+## Example files
+
+You find the various example files in the `rhino` folder.
 
 Credits
 -------------
