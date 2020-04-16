@@ -2,7 +2,7 @@
 # Climate Active Bricks
 
 
-**This project examines the microclimate effects of differentiated robotically fabricated brick facades. Through this course we will explore environmental modeling tools to quantify local impacts of brick walls. We will use computational simulations to provide optimized alternatives for robotically manufacturing of brick elements. These tools will support us in the process of design and decision making to understand the microclimatic impacts on human scale. **
+This project examines the microclimate effects of differentiated robotically fabricated brick facades. Through this course we will explore environmental modeling tools to quantify local impacts of brick walls. We will use computational simulations to provide optimized alternatives for robotically manufacturing of brick elements. These tools will support us in the process of design and decision making to understand the microclimatic impacts on human scale.
 
 ![Brickwall Example 2](/docs/images/brickwall_ex2.jpg)
 
