@@ -70,7 +70,7 @@ into your project workspace.
 You find the various example files in the `rhino` folder.
 
 ## Environmental Simulations
-docs/images/Rad.jpg
+![Rad](docs/images/Rad.jpg)
 ### Installation Ladybug Tools
 
 Credits
