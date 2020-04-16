@@ -62,10 +62,9 @@ into your project workspace.
 * shapely: `(your_env_name) conda install shapely`
 
 
-## Environmental Analysis and Optimization
+## Installation and Dependencies - Environmental Analysis and Optimization
 
 ![Rad](docs/images/Rad.jpg)
-## Installation and Dependencies
 
 ### Ladybug Tools for Environmental Analysis
 
