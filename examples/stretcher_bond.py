@@ -15,9 +15,9 @@ print(PATH_TO)
 from climate_active_bricks.assembly import Element, Assembly
 
 # dimensions full brick
-length = 240
-width = 115
-height = 50
+length = 0.240
+width = 0.115
+height = 0.050
 
 brick = Element.from_dimensions(length, width, height, "full")
 halfbrick = Element.from_dimensions(length/2, width, height, "half")
@@ -25,7 +25,7 @@ halfbrick = Element.from_dimensions(length/2, width, height, "half")
 COURSES = 25
 BRICKS_PER_COURSE = 4
 
-MORTAR_PERPENDS = 25
+MORTAR_PERPENDS = 0.025
 
 
 total_length = BRICKS_PER_COURSE * length + (BRICKS_PER_COURSE - 1) * MORTAR_PERPENDS

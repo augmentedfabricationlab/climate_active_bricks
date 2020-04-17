@@ -53,7 +53,7 @@ def assembly_with_interfaces_courses(assembly):
         assembly.network.set_vertices_attribute('course', i, keys=course)
     #return courses
 
-def assembly_courses(assembly, tol=1.0):
+def assembly_courses(assembly, tol=0.001):
     """Identify the courses in a wall of bricks.
 
     Parameters
