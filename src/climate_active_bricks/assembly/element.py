@@ -44,7 +44,7 @@ class Element(object):
         super(Element, self).__init__()
         self.frame = frame
         self.id = ""
-        self.trajectory = None   
+        self.trajectory = None
         self._gripping_frame = None
         self._source = None
         self._mesh = None
