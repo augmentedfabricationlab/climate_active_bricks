@@ -19,7 +19,7 @@ This project examines the microclimate effects of differentiated robotically fab
 
 ## Getting started
 
-### Compas and Compas Fab Installation 
+### Compas Installation 
 (via your Anaconda Terminal)
     
     (base)  conda config --add channels conda-forge
@@ -86,7 +86,7 @@ into your project workspace.
 
 ## Example files
 
-You find the various example files in the `rhino` folder.
+You find various example files in the `rhino` folder.
 
 Credits
 -------------
