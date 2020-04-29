@@ -23,7 +23,7 @@ This project examines the microclimate effects of differentiated robotically fab
 (via your Anaconda Terminal)
     
     (base)  conda config --add channels conda-forge
-    (base)  conda create -n your_env_name python=3.8 compas=0.15.6 --yes
+    (base)  conda create -n your_env_name python=3.7 compas=0.15.6 --yes
     (base)  conda activate your_env_name
     (your_env_name) python -m compas_rhino.install -v 6.0 -p compas compas_ghpython compas_rhino
     
