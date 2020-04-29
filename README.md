@@ -38,21 +38,17 @@ This project examines the microclimate effects of differentiated robotically fab
 
 ## Installation and Dependencies - Geometry and Fabrication
 
-### Installation assembly_information_model:
-
-* Clone the [assembly_information_model](https://github.com/augmentedfabricationlab/assembly_information_model) repository into your project workspace.
-
-* Change to the directory of the repository and and make the projects accessible from Rhino 
-
-`(your_env_name) invoke add-to-rhino`
-
 ### Installation climate_active_bricks:
 
 * Clone the [climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks) repository into your project workspace.
 
+### Installation assembly_information_model:
+
+* Clone the [assembly_information_model](https://github.com/augmentedfabricationlab/assembly_information_model) repository into your project workspace.
+
 * Change to the directory of the repository and use pip install to copy the repository to your Anaconda environment site packages: 
 
-`(your_env_name) pip install your_filepath_to_climate_active_bricks`        
+`(your_env_name) pip install your_filepath_to_assembly_information_model`    
 
 * And make the projects accessible from Rhino 
 
