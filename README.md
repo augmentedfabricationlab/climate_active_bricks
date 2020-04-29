@@ -23,25 +23,27 @@ This project examines the microclimate effects of differentiated robotically fab
 (via your Anaconda Terminal)
     
     (base)  conda config --add channels conda-forge
-    (base)  conda create -n your_env_name python=3.6 compas=0.11.4 compas_fab=0.10.1 --yes
+    (base)  conda create -n your_env_name python=3.8 compas=0.15.6 --yes
     (base)  conda activate your_env_name
-    (your_env_name) python -m compas_rhino.install -v 6.0 -p compas compas_ghpython compas_rhino compas_fab roslibpy
-    (your_env_name) python -m compas_fab.rhino.install -v 6.0
+    (your_env_name) python -m compas_rhino.install -v 6.0 -p compas compas_ghpython compas_rhino
     
 ### Verify Installation
 
     (your_env_name) python
     >>> import compas_fab
     >>> compas_fab.__version__
-    '0.10.1'
+    '0.15.6'
     >>> exit()
 
 
 ## Installation and Dependencies - Geometry and Fabrication
 
-### Installation climate_active_bricks:
+### Installation assembly_information_model and climate_active_bricks:
+
+* Clone the [assembly_information_model](https://github.com/augmentedfabricationlab/assembly_information_model) repository into your project workspace.
 
 * Clone the [climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks) repository into your project workspace.
+
 * Use pip install to copy the repository to your Anaconda environment site packages: 
 
 `(your_env_name) pip install your_filepath_to_climate_active_bricks`        
@@ -57,7 +59,7 @@ into your project workspace.
     1. Ironpython Path, e.g., C:\Program Files\IronPython 2.7\Lib
     2. Parent folder of ur_online_control repository, e.g., C:\Users\yourname\workspace\projects
 
-### Dependecies:
+### Other Dependecies:
 
 * shapely: `(your_env_name) conda install shapely`
 
