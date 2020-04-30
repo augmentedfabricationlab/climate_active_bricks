@@ -19,7 +19,7 @@ This project examines the microclimate effects of differentiated robotically fab
 
 ## Getting started
 
-### Compas and Compas Fab Installation 
+### Compas Installation 
 (via your Anaconda Terminal)
     
     (base)  conda config --add channels conda-forge
@@ -38,17 +38,21 @@ This project examines the microclimate effects of differentiated robotically fab
 
 ## Installation and Dependencies - Geometry and Fabrication
 
-### Installation assembly_information_model and climate_active_bricks:
-
-* Clone the [assembly_information_model](https://github.com/augmentedfabricationlab/assembly_information_model) repository into your project workspace.
+### Installation climate_active_bricks:
 
 * Clone the [climate_active_bricks](https://github.com/augmentedfabricationlab/climate_active_bricks) repository into your project workspace.
 
-* Use pip install to copy the repository to your Anaconda environment site packages: 
+### Installation assembly_information_model:
 
-`(your_env_name) pip install your_filepath_to_climate_active_bricks`        
+* Clone the [assembly_information_model](https://github.com/augmentedfabricationlab/assembly_information_model) repository into your project workspace.
 
-* Make the project accessible from Rhino by adding the `src` folder of the repositories (e.g., C:\Users\yourname\workspace\projects\climate_active_bricks\src) to the Rhino Pyhon path (via >> EditPythonScript >> Tools >> Options >> Add to search path).
+* Change to the directory of the repository and use pip install to copy the repository to your Anaconda environment site packages: 
+
+`(your_env_name) pip install your_filepath_to_assembly_information_model`    
+
+* And make the projects accessible from Rhino 
+
+`(your_env_name) invoke add-to-rhino`
 
 ### Installation ur_online_control:
 
@@ -78,7 +82,7 @@ into your project workspace.
 
 ## Example files
 
-You find the various example files in the `rhino` folder.
+You find various example files in the `rhino` folder.
 
 Credits
 -------------
