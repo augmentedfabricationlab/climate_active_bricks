@@ -88,6 +88,10 @@ or via your Anaconda Terminal:
     (discover) cd your_filepath_to_discover
     (discover) pip install -r requirements.txt
     (discover) python server.py
+    
+Then open
+    http://localhost:5000/
+in your browser to see Discover.
 
 ## Example files
 
