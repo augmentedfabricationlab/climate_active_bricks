@@ -80,6 +80,15 @@ into your project workspace.
 
 * Install Discover via https://colidescope.github.io/discover/
 
+or via your Anaconda Terminal:
+    
+    (base)  conda config --add channels conda-forge
+    (base)  conda create -n discover python=3.7 compas=0.15.6 --yes
+    (base)  conda activate discover
+    (discover) cd your_filepath_to_discover
+    (discover) pip install -r requirements.txt
+    (discover) python server.py
+
 ## Example files
 
 You find various example files in the `rhino` folder.
